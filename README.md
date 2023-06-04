@@ -11,10 +11,8 @@ Uruk Bazaar is a vibrant and user-friendly e-commerce platform designed to provi
 ## Key Features
 
 - Browse a wide range of products across different categories.
-- Convenient search and filtering options to find exactly what you're looking for.
+- Convenient search to find exactly what you're looking for.
 - Secure and streamlined checkout process for a hassle-free purchase.
-- User-friendly seller dashboard to manage product listings and track sales.
-- Multiple shipping methods to choose from for reliable and timely delivery.
 - Interactive product pages with detailed descriptions and high-quality images.
 - Responsive design for optimal browsing on various devices.
 
@@ -22,21 +20,40 @@ Uruk Bazaar is a vibrant and user-friendly e-commerce platform designed to provi
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Python, Django
-- Database: PostgreSQL
+- Database: sqlite3
 - Other tools and libraries: React Router, Bootstrap, Axios, Git
+
+## Screenshots
+
+![Homepage](/Screenshots/p1.png)
+![Homepage](/Screenshots/p2.png)
+![Product_page](/Screenshots/p3.png)
+![Products & Categories](/Screenshots/p4.png)
+![Products & Categories](/Screenshots/p5.png)
+![Cart](/Screenshots/p6.png)
+![Cart](/Screenshots/p7.png)
+![Checkout](/Screenshots/p8.png)
+![privacy-policy](/Screenshots/p9.png)
+![upload](/Screenshots/p10.png)
+![handle-products](/Screenshots/p11.png)
+![Login](/Screenshots/p12.png)
 
 ## Getting Started
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Access the website in your browser: `http://localhost:3000`
+1. Clone the repository: `git clone https://github.com/strngprogrammer/UrukBazaar.git`
+2. install python
+3. install django and other libraries
+4. `python manage.py runserver`  
+5. Install the dependencies: `npm install`
+6. Start the development server: `npm start`
+7. Access the website in your browser: `http://localhost:3000`
+
 
 ## Contributions and Feedback
 
 We welcome contributions to enhance the Uruk Bazaar E-Commerce Website. If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request. Your feedback is valuable in making our platform even better.
 
-Thank you for visiting our repository and happy shopping at Uruk Bazaar!
+Thank you for visiting our repository and Good luck!
 
