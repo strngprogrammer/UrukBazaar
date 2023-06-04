@@ -25,18 +25,18 @@ Uruk Bazaar is a vibrant and user-friendly e-commerce platform designed to provi
 
 ## Screenshots
 
-![Homepage](/Screenshots/p1.png)
-![Homepage](/Screenshots/p2.png)
-![Product_page](/Screenshots/p3.png)
-![Products & Categories](/Screenshots/p4.png)
-![Products & Categories](/Screenshots/p5.png)
-![Cart](/Screenshots/p6.png)
-![Cart](/Screenshots/p7.png)
-![Checkout](/Screenshots/p8.png)
-![privacy-policy](/Screenshots/p9.png)
-![upload](/Screenshots/p10.png)
-![handle-products](/Screenshots/p11.png)
-![Login](/Screenshots/p12.png)
+![Homepage](/Screenshots/p1.PNG)
+![Homepage](/Screenshots/p2.PNG)
+![Product_page](/Screenshots/p3.PNG)
+![Products & Categories](/Screenshots/p4.PNG)
+![Products & Categories](/Screenshots/p5.PNG)
+![Cart](/Screenshots/p6.PNG)
+![Cart](/Screenshots/p7.PNG)
+![Checkout](/Screenshots/p8.PNG)
+![privacy-policy](/Screenshots/p9.PNG)
+![upload](/Screenshots/p10.PNG)
+![handle-products](/Screenshots/p11.PNG)
+![Login](/Screenshots/p12.PNG)
 
 ## Getting Started
 
